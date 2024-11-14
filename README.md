@@ -1,5 +1,5 @@
 # To-Do List Application
-
+ 
 ## Important: This project is a applying project for a internship vacancy!
 
 This is a **To-Do List** application built using **Flutter** for the frontend and a **Laravel** API backend with **MySQL** as the database. It allows users to manage tasks with functionalities like adding, editing, deleting, and marking tasks as complete. Additionally, the project uses **Docker** for containerization, making it easy to deploy the application.
